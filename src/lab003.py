@@ -1,0 +1,7 @@
+print("hello Shantanu")
+print("Hello", "world", "123", "3.14", "true")
+print("Hello", "world", "123", "3.14", "true", sep="-")
+print("Hello", "world", "123", "3.14", "true", sep="=")
+print("Hello", "world", "123", "3.14", "true", sep="/")
+print("Hello", "world", "123", "3.14", "true", sep="?", end="_")
+print("august")
