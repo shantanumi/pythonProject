@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a916d2ec-615d-43c8-94d3-73d9ae613710" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_08082024/lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08082024/lab001.py" afterDir="false" />
-    </list>
+    <list default="true" id="a916d2ec-615d-43c8-94d3-73d9ae613710" name="Changes" comment="lab002 added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,6 +67,19 @@
       <option name="presentableId" value="Default" />
       <updated>1725194479726</updated>
     </task>
+    <task id="LOCAL-00001" summary="lab002 added">
+      <option name="closed" value="true" />
+      <created>1725197996488</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725197996488</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lab002 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab002 added" />
   </component>
 </project>
